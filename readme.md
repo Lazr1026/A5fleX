@@ -9,5 +9,5 @@ For motherboards with the B1X processor, use the [cafeFlex](https://github.com/m
 <img src="https://github.com/lazr1026/a5flex/blob/main/pics/top_components.png" width=500>
 
 ## Credits
-Lazr - Layout / routing
+Lazr - Layout / routing  
 YveltalGriffin - cafeFlex, the schematic of which was directly used here.
