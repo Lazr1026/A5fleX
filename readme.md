@@ -1,4 +1,4 @@
-## A5fleX
+# A5fleX
 A5fleX is a NAND/eMMC (in the form of a microSD card)/WiFi relocation FPC for Wii U motherboards that house the A5X processor.
 
 For motherboards with the B1X processor, use the [cafeFlex](https://github.com/mackieks/cafeFlex/).
@@ -8,6 +8,6 @@ For motherboards with the B1X processor, use the [cafeFlex](https://github.com/m
 <img src="https://github.com/lazr1026/a5flex/blob/main/pics/top.png" width=500><img src="https://github.com/lazr1026/a5flex/blob/main/pics/bottom.png" width=500>
 <img src="https://github.com/lazr1026/a5flex/blob/main/pics/top_components.png" width=500>
 
-### Credits
+## Credits
 Lazr - Layout / routing
 YveltalGriffin - cafeFlex, the schematic of which was directly used here.
